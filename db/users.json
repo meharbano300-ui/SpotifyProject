@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "690cf113c3fb21d7f1ee0626"
+  },
+  "email": "meharbano300@gmail.com",
+  "password": "$2b$10$BgplCvkGfvUiWV0NA/Rt8.XISsXgP/SiiEZ3T461vk7VaSxSThcNy",
+  "role": "admin",
+  "username": "spotify admin",
+  "gender": "Female",
+  "createdAt": {
+    "$date": "2025-11-06T15:44:39.803Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690d07002b08b89f823a2948"
+  },
+  "username": "Ayan",
+  "email": "ayan123@gmail.com",
+  "password": "$2b$10$Y67Tsd8mvtGdfkZi8zvNsO1LcpsUShQzzlYcjsnMl1u4S7QMEO8Ou",
+  "phone": "03008709648",
+  "dob": "2008-06-18",
+  "gender": "Female",
+  "role": "Free",
+  "createdAt": {
+    "$date": "2025-11-06T20:37:20.404Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690d3a9658a6ab2f00dc29af"
+  },
+  "username": "laiba",
+  "email": "laiba123@gmail.com",
+  "password": "$2b$10$dqCNaJP7pSeLKOOEBkfwF.xRd5..MWnGseIJstzxZ/gpT1.5ZP/Gq",
+  "phone": "03271612414",
+  "dob": "2002-06-19",
+  "gender": "Female",
+  "role": "Free",
+  "createdAt": {
+    "$date": "2025-11-07T00:17:26.411Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6910e6d7e4ce563d758fb2fb"
+  },
+  "username": "Subhan",
+  "email": "subhan123@gmail.com",
+  "password": "$2b$10$PJNYOI3DMCP3.e4Vs.iwi.TjyOnSCWxfGFyEbo6KKWaxkHu7fXJay",
+  "phone": "03237341697",
+  "dob": "2013-06-13",
+  "gender": "Male",
+  "role": "Free",
+  "isBlocked": false,
+  "createdAt": {
+    "$date": "2025-11-09T19:09:11.955Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6913af359aafc3f0d913bf6d"
+  },
+  "username": "Nadia",
+  "email": "nadia123@gmail.com",
+  "password": "$2b$10$ESWoTikZtQG0CQ5zwqJL3uUAHpDl2qmWwNmU2VDngZXFN4QdQc9xe",
+  "phone": "03237341697",
+  "dob": "2002-03-07",
+  "gender": "Female",
+  "role": "Free",
+  "isBlocked": false,
+  "createdAt": {
+    "$date": "2025-11-11T21:48:37.485Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6918c301027e4f54c085f9b5"
+  },
+  "username": "ZaraNoor",
+  "email": "zara123@gmail.com",
+  "password": "$2b$10$w.k6qUkvqtbEjDVW6BZusOY.wyble9UoToSi8/iHbh/eCoIYdxQF.",
+  "phone": "03271612414",
+  "dob": "2011-02-09",
+  "gender": "Female",
+  "role": "Free",
+  "isBlocked": false,
+  "createdAt": {
+    "$date": "2025-11-15T18:14:25.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69222e28e1acc3a184ed4fc1"
+  },
+  "username": "Abdul Hadi",
+  "email": "abdul123@gmail.com",
+  "password": "$2b$10$tYApOvpYM32yjRjVsTfu4efOOf9rxterfEalU65H7H2wWFXGzPS8y",
+  "phone": "03237341697",
+  "dob": "2011-06-29",
+  "gender": "Male",
+  "role": "Free",
+  "isBlocked": false,
+  "createdAt": {
+    "$date": "2025-11-22T21:42:00.546Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69222e97e1acc3a184ed4fd0"
+  },
+  "username": "Nouman",
+  "email": "nomi123@gmail.com",
+  "password": "$2b$10$aWtGTzxyGjf3J8ulTfWy0uJJIqwV8ml79dwf5s4iKgoUC05fNRM2S",
+  "phone": "03271612414",
+  "dob": "1989-11-20",
+  "gender": "Male",
+  "role": "Free",
+  "isBlocked": false,
+  "createdAt": {
+    "$date": "2025-11-22T21:43:51.715Z"
+  },
+  "__v": 0
+}]

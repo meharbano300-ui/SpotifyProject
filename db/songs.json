@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "690e4fc5c77beaa9f15bf1ad"
+  },
+  "title": "Halka ",
+  "artist": "atif aslam",
+  "album": "songs",
+  "genre": "Bollywood",
+  "duration": "1",
+  "fileUrl": "/uploads/1762545605463-Halka.mp3",
+  "createdAt": {
+    "$date": "2025-11-07T20:00:05.547Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T20:00:05.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690e5067c77beaa9f15bf1b0"
+  },
+  "title": "song1",
+  "artist": "atif aslam",
+  "album": "songs",
+  "genre": "Rock",
+  "duration": "1",
+  "fileUrl": "/uploads/1762545767575-song1.mp3",
+  "createdAt": {
+    "$date": "2025-11-07T20:02:47.950Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T20:02:47.950Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6912777df398a80d39414fe5"
+  },
+  "title": "1234",
+  "artist": "dffg",
+  "filePath": "/uploads/songs/1762817916272-song3.mp3",
+  "coverFilePath": "/uploads/covers/1762817916997-666.jfif",
+  "createdAt": {
+    "$date": "2025-11-10T23:38:37.570Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T23:38:37.570Z"
+  },
+  "__v": 0
+}]
